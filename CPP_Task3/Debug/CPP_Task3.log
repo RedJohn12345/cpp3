@@ -1,0 +1,3 @@
+﻿  CPP_Task3.cpp
+C:\Users\Lakad\source\repos\CPP_Task3\CPP_Task3\CircleList.h(45): warning C4715: CircleList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getNodeByIndex: значение возвращается не при всех путях выполнения
+  CPP_Task3.vcxproj -> C:\Users\Lakad\source\repos\CPP_Task3\Debug\CPP_Task3.exe
